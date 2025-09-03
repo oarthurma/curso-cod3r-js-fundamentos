@@ -32,23 +32,22 @@ A **Cod3r Cursos Online** é uma escola de tecnologia criada por profissionais e
 
 ## 🧠 Estrutura do repositório
 
-```bash
-curso-cod3r-js-fundamentos/
-├── inicio/         # Primeiros passos com JS e lógica básica
-├── operadores/     # Operadores aritméticos, lógicos e relacionais
-├── controle/       # Estruturas de controle (if, switch, loops)
-├── funcoes/        # Funções, escopo e retorno
-├── arrays/         # Métodos e manipulação de arrays
-├── objetos/        # Trabalhando com objetos e propriedades
+- **`inicio/`** — Primeiros passos com JS e lógica básica  
+- **`operadores/`** — Operadores aritméticos, lógicos e relacionais  
+- **`controle/`** — Estruturas de controle (`if`, `switch`, loops)  
+- **`funcoes/`** — Funções, escopo e retorno  
+- **`arrays/`** — Métodos e manipulação de arrays  
+- **`objetos/`** — Trabalhando com objetos e propriedades  
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
-JavaScript (ES6+)
 
-Node.js (para execução dos exemplos no terminal)
+- **JavaScript (ES6+)**
+- **Node.js** (para execução dos exemplos no terminal)
+- Editor recomendado: [Visual Studio Code](https://code.visualstudio.com)
 
-Editor recomendado: Visual Studio Code
+---
 
 ## 📦 Como executar os exemplos
 
@@ -56,23 +55,38 @@ Editor recomendado: Visual Studio Code
    ```bash
    git clone https://github.com/oarthurma/curso-cod3r-js-fundamentos.git
    cd curso-cod3r-js-fundamentos
+   ```
 
 2. Execute os arquivos com Node.js:
-
    ```bash
-    node caminho/para/arquivo.js
+   node caminho/para/arquivo.js
+   ```
 
+---
 
 ## 🎯 Objetivo
+
 Este repositório serve como material de apoio e prática para reforçar os conceitos aprendidos no curso. Sinta-se à vontade para explorar, modificar e expandir os exemplos conforme seu ritmo de aprendizado.
 
-📎 Link do curso
-🔗 Acesse o curso na Udemy
+---
+
+## 📎 Link do curso
+
+🔗 [Acesse o curso na Udemy](https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/)
+
+---
 
 ## 🤝 Contribuições
-Este projeto é pessoal e voltado para estudo, mas sugestões e melhorias são sempre bem-vindas! Se quiser contribuir, abra uma issue ou envie um pull request.
+
+Este projeto é pessoal e voltado para estudo, mas sugestões e melhorias são sempre bem-vindas!  
+Se quiser contribuir, abra uma issue ou envie um pull request.
+
+---
 
 ## 📄 Licença
-Este repositório segue a licença MIT.
 
-## Desenvolvido com 💻 por Arthur — seguindo os ensinamentos da Cod3r.
+Este repositório segue a licença [MIT](LICENSE).
+
+---
+
+**Desenvolvido com 💻 por Arthur — seguindo os ensinamentos da Cod3r.**
