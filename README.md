@@ -2,9 +2,7 @@
 
 Este repositório contém os exercícios, anotações e exemplos desenvolvidos ao longo do curso [**"Algoritmo e Lógica de Programação do Absoluto ZERO! Completo"**](https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/) da Cod3r, ministrado por Leonardo Moura Leitão.
 
-## 🏆 Certificação
-
-Curso **concluído com sucesso**! 
+## 🏆 Certificado
 
 📜 [**Ver Certificado de Conclusão**](https://www.udemy.com/certificate/UC-19f72764-ae32-4122-8466-a64bdeba65d8/)
 
